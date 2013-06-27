@@ -1,3 +1,10 @@
+I have move the scss files to outer directory for convinience of using the scss in project.
+
+**Core** is the mixins you need to build any css3 animations. 
+
+**Animate** is the animate.css
+
+=======================
 **Note:** If you are just looking for Dan Eden's Animate.css ported to Compass, 
 I recommend my newer [compass-animate][animate] plugin. 
 This plugin is mainly for adding animations to older versions of Compass.
